@@ -1,0 +1,18 @@
+{
+  "name": "4-backend_39755",
+  "version": "1.0.0",
+  "description": "",
+  "main": "archivos_callbacks.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "moment": "^2.29.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
